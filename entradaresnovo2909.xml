@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+
+
+
+<channel>
+<name>[COLOR red] == [/COLOR]ADDON [COLOR orange] AR[/COLOR][COLOR red]ES[/COLOR][COLOR pink] LITE/CLEAN [/COLOR] ADDON ARES BREVE VERSAO LITE/CLEAN FILMES E SERIES[COLOR red] === [/COLOR]</name>
+<thumbnail>https://archive.org/download/icon_20260825/icon.jpg</thumbnail>
+<fanart>https://archive.org/download/icon_20260825/fanart.jpg</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink></externallink>
+</channel>
+   
+<channel>
+<name>[COLOR red] == [/COLOR] [COLOR orange] Filmes 2026 [COLOR red] === [/COLOR]</name>
+<thumbnail>https://archive.org/download/aresseries2026fanart/aresfilmes2026fanart.png</thumbnail>
+<fanart>https://archive.org/download/aresseries2026fanart/aresfilmes2026fanart.png</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[COLOR red] == [/COLOR] [COLOR orange] Filmes Clássicos [COLOR red] === [/COLOR]</name>
+<thumbnail>https://archive.org/download/aresfilmesclassicos_202608/aresfilmesclassicos.png</thumbnail>
+<fanart>https://archive.org/download/aresfilmesclassicos_202608/aresfilmesclassicos.png</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink></externallink>
+</channel>
+   
+<channel>
+<name>[COLOR orange] == [/COLOR] [COLOR orange] Séries 2026 [COLOR orange] === [/COLOR]</name>
+<thumbnail>https://archive.org/download/aresseries2026fanart/aresseries2026fanart.png</thumbnail>
+<fanart>https://archive.org/download/aresseries2026fanart/aresseries2026fanart.png</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink></externallink>
+</channel>
+  
+<channel>
+<name>[COLOR orange] == [/COLOR] [COLOR orange] Rádios [COLOR orange] === [/COLOR]</name>
+<thumbnail>https://archive.org/download/aresradiosonline/aresradiosonline.png</thumbnail>
+<fanart>https://archive.org/download/aresradiosonline/aresradiosonline.png</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[COLOR orange] == [/COLOR] [COLOR orange] Runtime [COLOR orange] === [/COLOR]</name>
+<thumbnail>https://archive.org/download/runtime_20260520/runtime.jpg</thumbnail>
+<fanart>https://archive.org/download/runtime_20260520/runtime.jpg</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[COLOR red] == [/COLOR] [COLOR orange] TvOnline1 [COLOR red] === [/COLOR]</name>
+<thumbnail>https://archive.org/download/generated-image-august-03-2026-2-05-pm-1/Generated%20Image%20August%2003%2C%202026%20-%202_05PM%281%29.png</thumbnail>
+<fanart>https://archive.org/download/generated-image-august-03-2026-2-05-pm-1/Generated%20Image%20August%2003%2C%202026%20-%202_05PM%281%29.png</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink></externallink>
+</channel>
+   
+   
+  
+</channels>
